@@ -1,0 +1,6 @@
+*.tex
+*.aux
+*.fls
+*.log
+*.fdb_latexmk
+**sections
